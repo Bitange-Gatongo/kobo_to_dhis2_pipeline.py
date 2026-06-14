@@ -1,2 +1,1 @@
-# kobo_to_dhis2_pipeline.py
-kobo_to_dhis2_pipeline project
+
